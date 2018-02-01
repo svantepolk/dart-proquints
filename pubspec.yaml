@@ -1,0 +1,7 @@
+name: proquints
+version: 0.1.0
+description: >
+  Proquints: pronounceable quintuplets of alternating unambiguous consonants and vowels.
+  An implementation of Proquints, as described here: https://arxiv.org/0901.4016
+author: svantepolk <svantepolk@protonmail.com>
+homepage: https://github.com/svantepolk/proquints
